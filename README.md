@@ -9,6 +9,11 @@ This is a 3D space shooter game where players take control of a spaceship and en
 - Multiple spacecraft to choose from
 - rendomly generating power-ups
 
+## Instalation 
+Follow these steps to install and play the game:
+1. Clone this repository.
+2. Open the game in 3d unity game engine.
+3. Build and run the game.
 
 ## Controls
 - W, A, S, D: Move your spaceship
