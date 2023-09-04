@@ -19,12 +19,9 @@ Follow these steps to install and play the game:
 3. Build and run the game.
    
 
-## Screenshots
-![Capture1](https://github.com/iqra-yasmin/space-shooter-game-Unity-3D/assets/143939396/d60881cc-aeb2-4027-afdb-5ba731751e9f)
-![C![Capture6](https://github.com/iqra-yasmin/space-shooter-game-Unity-3D/assets/143939396/9e707dc3-041d-43c0-9735-e2dc5ce7a5a4)
-apture6](https://github.com/iqra-yasmin/space-shooter-game-Unity-3D/assets/143939396/344d7ebf-2028-457f-a53e-421c2009e83f)
 
-## Controler
+
+## Controlers
 - W, A, S, D: Move your spaceship
 - Spacebar: Shoot
 
